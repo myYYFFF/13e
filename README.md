@@ -1,6 +1,10 @@
 # i3e_asg1_1
 
 
+Please run the SampleScene under assets/scenes
+
+
+
 How to Play:
 
 Controls:
